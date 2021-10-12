@@ -45,45 +45,49 @@
 1. [Approaches to Concurrency](/03_concurrency_and_parallelism/02_approaches_to_concurrency)
 1. [Threads in C++](/03_concurrency_and_parallelism/03_threads_in_cpp)
 
-# Задачи по Практике
+# План Практики
 
-- Неделя 1. [Hello World!](tasks/task_01)
-- Неделя 2 - 3. [Graph Generation](tasks/task_02)
-- Неделя 4 - 5. [Graph Development, Logger](tasks/task_03)
+С общей идеей, правилами, подробным описанием задач и процесса их выполнения вы можете ознакомиться [**здесь**](/tasks).
+
+- Неделя 1. [Hello World!](/tasks/task_01)
+- Неделя 2. [Graph Generation](/tasks/task_02)
+- Неделя 3. [JSON Representation](/tasks/task_03)
+- Неделя 4. [Graph Development](/tasks/task_04)
   - Vertices and Edges Probabilities
+- Неделя 5. [Multiple Graphs and Logger](/tasks/task_05)
   - Multiple Graphs Generation (Sequentially)
   - Add Logger
-- Неделя 6. [Shortest Path Algorith](tasks/task_04)
+- Неделя 6. [Shortest Path Algorith](/tasks)
   - Add Edge Durations
   - Single Pair (Sequential Algorithm)
-- Неделя 7. [Shortest Path Algorith](tasks/task_05)
+- Неделя 7. [Shortest Path Algorith](/tasks)
   - Single Pair (Parallel Algorithm)
-- Неделя 8. [Graph Development](tasks/task_06)
+- Неделя 8. [Graph Development](/tasks)
   - Add Params, Fights and Blessings
   - Multiple Graphs Generation (Parallel)
-- Неделя 9. [Shortest Path](tasks/task_07)
+- Неделя 9. [Shortest Path Algorith](/tasks)
   - Multiple Pair (Parallel Algorithm)
-- Неделя 10. [Graph Development](tasks/task_08)
+- Неделя 10. [Graph Development](/tasks)
   - Adjustable Params (Parallel)
   - Add Enemies and Blessings
-- Неделя 11. [Graph Development](tasks/task_09)
+- Неделя 11. [Graph Development](/tasks)
   - Multiple Players (Parallel)
   - Add Enemies and Blessings
 - ...
 
-> План временный, для общего понимания. Подробные описания задач готовятся по мере возможности.
+План временный, для общего понимания. Задачи готовятся по мере возможности.
 
-# Частые Ошибки
+# Common Mistakes
 
-Советую так же взглянуть на [частые ошибки](/tasks#common-mistakes), которые студенты совершают при выполнении задач по практике. Это, возможно, сэкономит время и вам и мне.
+Советую так же взглянуть на [**частые ошибки**](/tasks#common-mistakes), которые студенты совершают при выполнении задач по практике. Это, возможно, сэкономит время и вам и мне.
 
-# Guidlines, Coding Standards
+# Guidlines and Coding Standards
 - https://isocpp.org/wiki/faq/coding-standards
 - https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 - https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference
 - https://google.github.io/styleguide/cppguide.html
 
-# Полезные Ссылки
+# Useful Links
 - [GSL: Guidelines Support Library](https://github.com/Microsoft/GSL)
 - [STL: Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 - [Boost (C++ libraries)](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
